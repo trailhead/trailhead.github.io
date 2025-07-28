@@ -6,7 +6,7 @@ Please open issues or submit pull requests for improvements or bug fixes.
 - [Espressif ESP-IDF Nuggets](#espressif-esp-idf-nuggets)
   - [License](#license)
 
-- [Create version file in SPIFFS image](#Create version file in SPIFFS image)
+- [Create version file in SPIFFS image](Create version file in SPIFFS image)
 
 ## License
 
