@@ -3,6 +3,11 @@
 Contributions are welcome!  
 Please open issues or submit pull requests for improvements or bug fixes.
 
+- [Espressif ESP-IDF Nuggets](#espressif-esp-idf-nuggets)
+  - [License](#license)
+
+[Editing Create version file in SPIFFS image](Editing Create version file in SPIFFS image)
+
 ## License
 
 This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
