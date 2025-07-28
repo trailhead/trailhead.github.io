@@ -3,7 +3,10 @@
 Contributions are welcome!  
 Please open issues or submit pull requests for improvements or bug fixes.
 
-- [Editing Create version file in SPIFFS image](#Editing Create version file in SPIFFS image)
+- [Espressif ESP-IDF Nuggets](#espressif-esp-idf-nuggets)
+  - [License](#license)
+
+- [Create version file in SPIFFS image](#Create version file in SPIFFS image)
 
 ## License
 
