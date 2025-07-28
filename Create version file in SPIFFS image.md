@@ -1,5 +1,5 @@
-layout: page
-title: "Create version file in SPIFFS image"
+#Create version file in SPIFFS image
+
 ```
 set(PROJECT_NAME "some_project")
 set(PROJECT_VER "1.0.0b")
